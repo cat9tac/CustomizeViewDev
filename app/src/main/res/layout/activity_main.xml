@@ -12,10 +12,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        />
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.customizeviewdev.ModeSelectView.ModeSelectView
+        android:layout_width="192px"
+        android:layout_height="144px"
+        android:layout_marginTop="200dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:background="@color/colorAccent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
 
 
 
