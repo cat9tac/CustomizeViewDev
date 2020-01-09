@@ -1,0 +1,45 @@
+
+]squid:S2184ˆ"@Cast one of the operands of this integer division to a "double".(Şõ¿¤şÿÿÿÿ
+ssquid:UselessImportCheck"JRemove this unused import 'android.view.animation.DecelerateInterpolator'.(ÑßÜüüÿÿÿÿ
+=squid:S1170"!Make this final field static too.(×Ÿÿïùÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(åƒÉàúÿÿÿÿ
+>squid:S2111®"!Use "BigDecimal.valueOf" instead.(¨Ÿşåÿÿÿÿÿ
+Qsquid:UnusedPrivateMethodñ"+Remove this unused private "update" method.(¸ñ®Æ
+Gsquid:S1068-"+Remove this unused "context" private field.(ÄÖ¤–ıÿÿÿÿ
+Xsquid:S2184ä"@Cast one of the operands of this integer division to a "double".(©ó’´
+Xsquid:S2184Â"@Cast one of the operands of this integer division to a "double".(§Ô§Ë
+8squid:S1170"!Make this final field static too.(ÇµŞ‚
+Xsquid:S2184Ò"@Cast one of the operands of this integer division to a "double".(§Ô§Ë
+Ysquid:S2184ä"ACast one of the operands of this addition operation to a "float".(©ó’´
+>squid:S1905 "&Remove this unnecessary cast to "int".(é¹‰í
+]squid:S2184°"@Cast one of the operands of this integer division to a "double".(¶ú¼ıúÿÿÿÿ
+=squid:S1170"!Make this final field static too.(‡ÃÁ¹øÿÿÿÿ
+tsquid:S1450ì"WRemove the "mIsTouch" field and declare it as a local variable in the relevant methods.(–ÚğÊüÿÿÿÿ
+jsquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(É©˜‚
+Isquid:S1068ì",Remove this unused "mIsTouch" private field.(–ÚğÊüÿÿÿÿ
+Xsquid:S2184ã"@Cast one of the operands of this integer division to a "double".(ûÃÏÏ
+]squid:S2184Õ"@Cast one of the operands of this integer division to a "double".(¶ú¼ıúÿÿÿÿ
+Xsquid:S2184ã"@Cast one of the operands of this integer division to a "double".(ûÃÏÏ
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ñ Ñ†şÿÿÿÿ
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ÉãÄ‰şÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÕÆ¾ùıÿÿÿÿ
+^squid:S2184R"GCast one of the operands of this multiplication operation to a "float".(êıãÉ
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(²¡½
+=squid:S1170"!Make this final field static too.(¯÷½ôüÿÿÿÿ
+8squid:S1170"!Make this final field static too.(‡·¬
+Xsquid:UselessImportCheck"4Remove this unused import 'android.widget.Scroller'.(±ìŒ
+rsquid:S1450'"VRemove the "mStartX" field and declare it as a local variable in the relevant methods.(Î»êüÿÿÿÿ
+Xsquid:S2184ä"@Cast one of the operands of this integer division to a "double".(©ó’´
+osquid:S1450ë"WRemove the "mScrollX" field and declare it as a local variable in the relevant methods.(Êš‚Ú
+8squid:S1170"!Make this final field static too.(“÷Ú‰
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(æÊ’şÿÿÿÿ
+]squid:S2184¦"@Cast one of the operands of this integer division to a "double".(¼ïíîúÿÿÿÿ
+Xsquid:S2184„"@Cast one of the operands of this integer division to a "double".(÷äÔ†
+>squid:S2111¸"!Use "BigDecimal.valueOf" instead.(¨Ÿşåÿÿÿÿÿ
+Xsquid:S2184Ö"@Cast one of the operands of this integer division to a "double".(§Ô§Ë
+lsquid:S1450%"URemove the "mWidth" field and declare it as a local variable in the relevant methods.(ÈŒ„£
+]squid:S2184Ñ"@Cast one of the operands of this integer division to a "double".(¶ú¼ıúÿÿÿÿ
+]squid:S2184Á"@Cast one of the operands of this integer division to a "double".(¶ú¼ıúÿÿÿÿ
+\squid:S2184ã"DCast one of the operands of this subtraction operation to a "float".(ûÃÏÏ
+Xsquid:S2184±"@Cast one of the operands of this integer division to a "double".(§Ô§Ë
+msquid:S1450$"VRemove the "mHeight" field and declare it as a local variable in the relevant methods.(šÏ£
