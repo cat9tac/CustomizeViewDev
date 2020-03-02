@@ -2,5 +2,6 @@
 <resources>
     <dimen name="selected_height" >18dp</dimen>
     <dimen name="normal_height" >9dp</dimen>
+    <dimen name="normal_text_size" >12px</dimen>
 
 </resources>

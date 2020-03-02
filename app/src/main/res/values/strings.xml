@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomizeViewDev</string>
+    <string name="default_text_str"> </string>
 </resources>
